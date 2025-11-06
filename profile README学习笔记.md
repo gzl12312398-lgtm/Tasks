@@ -1,4 +1,4 @@
-# profile README学习笔记
+# 学习笔记
 
 ## 优秀的 profile README
 
