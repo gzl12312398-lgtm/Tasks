@@ -1,0 +1,22 @@
+##什么是markdown
+
+Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。Markdown 由 John Gruber 于 2004 年创建，如今已成为世界上最受欢迎的标记语言之一。
+>https://markdown.com.cn/intro.html#markdown
+
+##语法规则示例
+
+>https://markdown.com.cn/editor/#jump_8
+
+##markdown的工作原理
+
+- 使用文本编辑器或 Markdown 专用的应用程序创建 Markdown 文件。   该文件应带有 .md 或 .markdown 扩展名。
+- 在 Markdown 应用程序中打开 Markdown 文件。
+- 使用 Markdown 应用程序将 Markdown 文件转换为 HTML 文档。
+- 在 web 浏览器中查看 HTML 文件，或使用 Markdown 应用程序将其   转换为其他文件格式，例如 PDF。
+
+##其他学习markdown的途径
+
+- https://daringfireball.net/projects/markdown/  Markdown的创建者编写的原始指南。
+- https://www.markdowntutorial.com/. 一个开源网站，你能用浏览器在这个网站上尝试 Markdown。
+- https://github.com/mundimark/awesome-markdown. Markdown 工具和学习资源列表。
+- https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/. 这是一个系列教程，介绍了使用 pandoc (opens new window)和 ConTeXt (opens new window)对 Markdown 文档进行排版的系统。
