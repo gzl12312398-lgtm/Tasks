@@ -1,4 +1,4 @@
-1. 标题语法
+1. ==标题语法==
 
 #  一级标题
 
@@ -8,7 +8,7 @@
 
 注:用一个空格在 `#` 和标题之间进行分隔。
 
-2. 段落语法
+2. ==段落语法==
 
 I really like using Markdown.
 
@@ -20,7 +20,7 @@ I think I'll use it to format all of my documents from now on.
 
 在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行  
 
-4. 强调语法   
+4. ==强调语法==   
 
    **加粗**  单词或短语的前后各添加两个星号。
 
@@ -30,7 +30,7 @@ I think I'll use it to format all of my documents from now on.
 
    ~~删除线~~    若要删除单词，请在单词前后使用两个波浪号`~~`。
 
-5. 引用语法  
+5. ==引用语法==  
 
    > 这是一个引用  
 
@@ -51,7 +51,7 @@ I think I'll use it to format all of my documents from now on.
 
 ​        块引用可以包含其他 Markdown 格式的元素。
 
-6. 列表语法   
+6. ==列表语法== 
 
    要创建有序列表，请在每个列表项前添加数字并紧跟一个英文句点。
 
@@ -59,7 +59,7 @@ I think I'll use it to format all of my documents from now on.
 
    
 
-7. 代码语法 
+7. ==代码语法== 
 
     At the command prompt, type `nano`.   
 
@@ -73,13 +73,13 @@ I think I'll use it to format all of my documents from now on.
 
    
 
-8. 分隔线语法  
+8. ==分隔线语法==  
 
    要创建分隔线，请在单独一行上使用三个或多个星号 (`***`)、破折号 (`---`) 或下划线 (`___`) ，并且不能包含其他内容。最好在分隔线的前后均添加空白行。
 
    
 
-9. 链接语法  
+9. ==链接语法==  
 
    链接文本放在中括号内，链接地址放在后面的括号中，链接title可选。
 
@@ -135,15 +135,17 @@ I think I'll use it to format all of my documents from now on.
 
       注：不同的 Markdown 应用程序处理URL中间的空格方式不一样。为了兼容性，请尽量使用**%20**代替空格。
 
-10. 图片语法
+10. ==图片语法==
 
-    ![举例](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 190959.png) 
+    ![举例](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 190959.png)
+
+     ![test](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 190959.png)
 
     ```text
     [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
     ```
 
-11. 转义字符语法
+11. ==转义字符语法==
 
     要显示原本用于格式化 Markdown 文档的字符，请在字符前面添加反斜杠字符 \ 。
 
@@ -157,13 +159,13 @@ I think I'll use it to format all of my documents from now on.
 
     
 
-12. Markdown 内嵌 HTML 标签
+12. ==Markdown 内嵌 HTML 标签==
 
     区块元素──比如 `<div>`、`<table>`、`<pre>`、`<p>` 等标签，必须在前后加上空行，以便于内容区分。而且这些元素的开始与结尾标签，不可以用 tab 或是空白来缩进。Markdown 会自动识别这区块元素，避免在区块标签前后加上没有必要的 `<p>` 标签。
 
     
 
-13. markdown扩展语法
+13. ==markdown扩展语法==
 
     （1）markdown表格  
 
@@ -248,7 +250,7 @@ I think I'll use it to format all of my documents from now on.
 
 
 
-14. 问题：
+14. ==问题：==
 
 - 轻量标记语言 
 
