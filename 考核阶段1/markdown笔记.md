@@ -139,7 +139,7 @@ I think I'll use it to format all of my documents from now on.
 
     ![举例](assets/图片样片.jpg)
 
-     ![test](assets/屏幕截图 2025-11-10 190959.png)
+     ![test](assets/屏幕截图 2025-11-10 190959-1762863414602-1.png)
 
     ```text
     [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
