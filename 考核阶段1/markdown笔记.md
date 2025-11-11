@@ -137,9 +137,9 @@ I think I'll use it to format all of my documents from now on.
 
 10. ==图片语法==
 
-    ![举例](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 190959.png)
+    ![举例](考核阶段1/assests/屏幕截图 2025-11-10 190959.png)
 
-     ![test](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 190959.png)
+     ![test]()
 
     ```text
     [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
@@ -279,6 +279,7 @@ I think I'll use it to format all of my documents from now on.
   
 
 15. 参考：[Markdown 扩展语法入门 | Markdown 教程](https://markdown.com.cn/extended-syntax/)
+
 
 
 
