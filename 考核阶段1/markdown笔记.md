@@ -151,7 +151,7 @@ I think I'll use it to format all of my documents from now on.
 
     如：\* Without the backslash, this would be a bullet in an unordered list.
 
-    [![转义符](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 195514.png)]
+    [![转义符](https://github.com/gzl12312398-lgtm/Tasks/blob/main/%E8%80%83%E6%A0%B8%E9%98%B6%E6%AE%B51/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-10%20195514-1762864559474-1.png)]
 
     注：在 Markdown 的块级元素和内联元素中， `<` 和 `&` 两个符号都会被自动转换成 HTML 实体，这项特性让你可以很容易地用 Markdown 写 HTML。（在 HTML 语法中，你要手动把所有的 `<` 和 `&` 都转换为 HTML 实体。） 
 
@@ -279,6 +279,7 @@ I think I'll use it to format all of my documents from now on.
   
 
 15. 参考：[Markdown 扩展语法入门 | Markdown 教程](https://markdown.com.cn/extended-syntax/)
+
 
 
 
