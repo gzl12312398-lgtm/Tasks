@@ -230,7 +230,7 @@ I think I'll use it to format all of my documents from now on.
 - [ ] Contact the media
 ```
 
-输出为：[![任务列表](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 214204.png)]
+输出为：[![任务列表](考核阶段1/assests/屏幕截图 2025-11-10 214204.png)]
 
 ​      （6）Markdown 使用 Emoji 表情
 
@@ -279,6 +279,7 @@ I think I'll use it to format all of my documents from now on.
   
 
 15. 参考：[Markdown 扩展语法入门 | Markdown 教程](https://markdown.com.cn/extended-syntax/)
+
 
 
 
