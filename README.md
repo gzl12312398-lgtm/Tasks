@@ -3,7 +3,7 @@
 ## 阶段一二考核
 
 ### 入门学习产出笔记
-- [markdown学习笔记]()
+- [markdown学习笔记](https://github.com/gzl12312398-lgtm/Tasks/blob/main/%E8%80%83%E6%A0%B8%E9%98%B6%E6%AE%B51/markdown%E7%AC%94%E8%AE%B0.md)
   
 - [github学习笔记]()
 - [git学习笔记]()
