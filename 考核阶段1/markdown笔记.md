@@ -137,9 +137,9 @@ I think I'll use it to format all of my documents from now on.
 
 10. ==图片语法==
 
-    ![举例](考核阶段1/assests/示例1.png)
+    ![举例](考核阶段1/assets/示例1.png)
 
-     ![test](考核阶段1/assests/示例1.png)
+     ![test](考核阶段1/assets/示例1.png)
 
     ```text
     [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
@@ -151,7 +151,7 @@ I think I'll use it to format all of my documents from now on.
 
     如：\* Without the backslash, this would be a bullet in an unordered list.
 
-    [![转义符](考核阶段1/assests/示例2.png)]
+    [![转义符](考核阶段1/assets/示例2.png)]
 
     注：在 Markdown 的块级元素和内联元素中， `<` 和 `&` 两个符号都会被自动转换成 HTML 实体，这项特性让你可以很容易地用 Markdown 写 HTML。（在 HTML 语法中，你要手动把所有的 `<` 和 `&` 都转换为 HTML 实体。） 
 
@@ -230,7 +230,7 @@ I think I'll use it to format all of my documents from now on.
 - [ ] Contact the media
 ```
 
-输出为：[![任务列表](考核阶段1/assests/示例3.png)]
+输出为：[![任务列表](考核阶段1/assets/示例3.png)]
 
 ​      （6）Markdown 使用 Emoji 表情
 
@@ -279,6 +279,7 @@ I think I'll use it to format all of my documents from now on.
   
 
 15. 参考：[Markdown 扩展语法入门 | Markdown 教程](https://markdown.com.cn/extended-syntax/)
+
 
 
 
