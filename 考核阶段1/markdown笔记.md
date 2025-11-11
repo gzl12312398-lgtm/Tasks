@@ -232,7 +232,7 @@ I think I'll use it to format all of my documents from now on.
 
 ​      （6）Markdown 使用 Emoji 表情
 
-有两种方法可以将表情符号添加到Markdown文件中：将表情符号复制并粘贴到      Markdown格式的文本中，或者键入*emoji shortcodes*（[📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](https://emojipedia.org/)），还有一个[markdown 表情符号标记的完整列表]（[github markdown 表情符号标记的完整列表](https://gist.github.com/rxaviers/7360908)）
+有两种方法可以将表情符号添加到Markdown文件中：将表情符号复制并粘贴到      Markdown格式的文本中，或者键入*emoji shortcodes*（[📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](https://emojipedia.org/)），还有一个[markdown 表情符号标记的完整列表]（[github markdown 表情符号标记的完整列表](https://gist.github.com/rxaviers/7360908)） 最简便的方式：Win键+句号键就可以去使用emoji，直接翻找选择合适的emoji。
 
 如：
 
