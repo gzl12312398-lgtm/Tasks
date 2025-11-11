@@ -137,9 +137,9 @@ I think I'll use it to format all of my documents from now on.
 
 10. ==图片语法==
 
-    ![举例](assets/图片样片.jpg)
+    ![举例](assets/屏幕截图 2025-11-10 190959-1762863659186-8.png)
 
-     ![test](assets/屏幕截图 2025-11-10 190959-1762863414602-1.png)
+     ![test](assets/屏幕截图 2025-11-10 190959-1762863697626-10.png)
 
     ```text
     [![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)
@@ -230,7 +230,7 @@ I think I'll use it to format all of my documents from now on.
 - [ ] Contact the media
 ```
 
-输出为：[![任务列表](C:\Users\35748\Pictures\Screenshots\屏幕截图 2025-11-10 214204.png)]
+输出为：[![任务列表](assets/屏幕截图 2025-11-10 214204.png)]
 
 ​      （6）Markdown 使用 Emoji 表情
 
