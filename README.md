@@ -11,4 +11,4 @@
 
 ## 阶段三笔记
 
-- [HTML学习笔记]（https://github.com/gzl12312398-lgtm/Tasks/blob/main/%E8%80%83%E6%A0%B8%E9%98%B6%E6%AE%B5%E4%B8%89/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md）
+- [HTML学习笔记](https://github.com/gzl12312398-lgtm/Tasks/blob/main/%E8%80%83%E6%A0%B8%E9%98%B6%E6%AE%B5%E4%B8%89/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
