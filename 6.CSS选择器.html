@@ -38,6 +38,25 @@
             font-size: larger;
         }
 
+        /*相邻元素选择器*/
+        h3 + p {
+            background-color: bisque;
+        }
+
+        /*伪类选择器*/
+        #element:hover {
+            background-color: aquamarine;
+        }
+
+        /*选中第一个子元素:first child
+                        :nth child()
+                        :active
+        */
+
+        /*伪元素选择器
+        ::after
+        */
+
     </style>
 
 
@@ -61,6 +80,9 @@
     </div>
 
     <p>这是一个普通的p标签</p>
+    <h3>这是一个相邻兄弟选择器示例</h3>
+    <p>这是另一个p标签</p>   
     
+    <h3 id="element">这是一个伪类选择器示例</h3>
 </body>
 </html>
